@@ -58,27 +58,5 @@ Output variable (desired target):
 •	y: has the client subscribed to a term deposit? (binary: 'yes', 'no')
 
 
-Client Attributes
-Client Attributes
-Predictive Modeling
-Predictive Modeling
-Demographics
-Demographics
-Model Selection
-Model Selection
-Financial Status
-Financial Status
-Bank Marketing Dataset
-Bank Marketing Dataset
-Performance Metrics
-Performance Metrics
-Contact History
-Contact History
-Hyperparameter Tuning
-Hyperparameter Tuning
-Marketing Campaigns
-Marketing Campaigns
-Campaign Effectiveness
-Campaign Effectiveness
-Optimization Strategies
+
 Optimization Strategies![image](https://github.com/user-attachments/assets/214989d5-9bc8-4b9f-9cf8-12c729708e82)
