@@ -59,4 +59,4 @@ Output variable (desired target):
 
 
 
-Optimization Strategies![image](https://github.com/user-attachments/assets/214989d5-9bc8-4b9f-9cf8-12c729708e82)
+![image](https://github.com/user-attachments/assets/214989d5-9bc8-4b9f-9cf8-12c729708e82)
